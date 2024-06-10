@@ -2,7 +2,7 @@
 
 # GLTF2MeshLib
 
-This plugin allows you to import gltf/glb models as MeshLibrary, which saves a lot of time compared to manual importing.
+This plugin allows you to import gltf/glb models as MeshLibrary, which saves a lot of time compared to manual importing. It can also import gltf as a single Mesh resource
 
 In the manual case, you would need to create an inherited scene of the gltf scene, reparent all mesh nodes (otherwise only the first mesh will be exported), and manually "export as MeshLibrary".
 
